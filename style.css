@@ -258,8 +258,7 @@ section .title:hover::after {
 .scholarship .scholarship-content a {
     display: inline-block;
     color: #1d1d1d;
-    margin-left: 37%;
-    margin-right: 37%;
+    margin-left: 43%;
     background: none;
     font-size: 20px;
     font-weight: 500;
@@ -517,9 +516,15 @@ footer a:hover{
         margin: 20px 0;
         font-size: 25px;
     }
+    .scholarship .scholarship-content a{
+        margin-left: 39%;
+    }
 }
 
 @media(max-width: 700px) {
+    .scholarship .scholarship-content a{
+        margin-left: 35%;
+    }
     .home .home-content .text-1 {
         font-size: 65px;
     }
