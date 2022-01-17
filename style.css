@@ -545,7 +545,8 @@ footer a:hover{
         font-size: 15px;
     }
     .adopt-a-career .adopt-a-career-content .point{
-        font-size: 13px;
+        width: 100%;
+        padding: 2% 5% 2% 5%;
     }
 
     .samajh .samajh-content{
