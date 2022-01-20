@@ -219,7 +219,8 @@ section .title:hover::after {
 }
 
 .scholarship .scholarship-content p{
-    font-size: 18px;
+    font-size: 20px;
+    font-weight: 300;
     padding: 20px 0 20px 0;
     transition: all 0.3s ease;
 }
@@ -230,6 +231,8 @@ section .title:hover::after {
 
 .scholarship .scholarship-content .bullet{
     display:list-item;
+    font-size: 20px;
+    font-weight: 300;
     padding: 10px 0 10px 0;
     transition: all 0.3s ease;
     width: 100%;
@@ -240,6 +243,8 @@ section .title:hover::after {
 }
 
 .scholarship .scholarship-content .point{
+    font-size: 20px;
+    font-weight: 300;
     display:flex;
     padding: 10px 0 10px 0;
     transition: all 0.3s ease;
@@ -247,7 +252,8 @@ section .title:hover::after {
 }
 
 .scholarship .scholarship-content .point span{
-    font-weight: 300;
+    font-size: 22px;
+    font-weight: 400;
     padding-right: 5px;
 }
 
@@ -341,6 +347,7 @@ section .title:hover::after {
 
 .samajh{
     background: #E8A87C;
+    font-family: 'Poppins', sans-serif;
 }
 
 .samajh .title{
@@ -372,7 +379,8 @@ section .title:hover::after {
     color: #1d1d1d;
     margin: 5%;
     text-align: justify;
-    font-weight: 200;
+    font-size: 20px;
+    font-weight: 300;
 }
 
 /* Get Invloved section styling */
