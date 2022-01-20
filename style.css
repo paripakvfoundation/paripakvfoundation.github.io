@@ -549,6 +549,9 @@ footer a:hover{
     .scholarship .scholarship-content .point{
         font-size: 13px;
     }
+    .scholarship .scholarship-content .point span{
+        font-size: 14px;
+    }
     .adopt-a-career .adopt-a-career-content p{
         font-size: 15px;
     }
